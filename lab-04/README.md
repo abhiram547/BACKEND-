@@ -8,8 +8,8 @@
 
 | Field | Details |
 |---|---|
-| **Student Name** | Vemuri Jaswanth |
-| **Registration Number** | 252U1R1256 |
+| **Student Name** | SURE ABHIRAM |
+| **Registration Number** | 252U1R1234 |
 | **Section** | CSE-CORE-2E |
 | **Course** | Backend Development Fundamentals |
 | **Faculty** | Mr Yugandhar Gurjalwar |
@@ -169,8 +169,8 @@ The application implements an asynchronous lifecycle startup routine via `initia
   {
     "message": "Lab 4: Registration, Login and JWT Authentication",
     "student": {
-      "name": "Vemuri Jaswanth",
-      "registrationNumber": "252U1R1256",
+      "name": "SURE ABHIRAM",
+      "registrationNumber": "252U1R1234",
       "section": "CSE-CORE-2E",
       "faculty": "Mr Yugandhar Gurjalwar",
       "college": "Aurora Deemed-to-be-University"
@@ -195,7 +195,7 @@ The application implements an asynchronous lifecycle startup routine via `initia
   ```json
   {
     "username": "jaswanth",
-    "name": "Vemuri Jaswanth",
+    "name": "SURE ABHIRAM",
     "password": "securePassword123"
   }
   ```
@@ -213,7 +213,7 @@ The application implements an asynchronous lifecycle startup routine via `initia
   ```json
   {
     "username": "jaswanth",
-    "name": "Vemuri Jaswanth",
+    "name": "SURE ABHIRAM",
     "password": "securePassword123"
   }
   ```
@@ -231,7 +231,7 @@ The application implements an asynchronous lifecycle startup routine via `initia
   ```json
   {
     "username": "jaswanth",
-    "name": "Vemuri Jaswanth"
+    "name": "SURE ABHIRAM"
   }
   ```
 - **Response Status:** `400 Bad Request`
@@ -406,7 +406,7 @@ SELECT id, username, name, password FROM user WHERE username = 'jaswanth';
 ```text
 id  username    name              password
 --  ----------  ----------------  ------------------------------------------------------------
-1   jaswanth  Vemuri Jaswanth  $2b$10$WpZ9mZ8E9YwQjE7vJqG9NuX9zQ7fE8rY6uT5wR4eP3oI2uY1tT0eO
+1   jaswanth  SURE ABHIRAM    $2b$10$WpZ9mZ8E9YwQjE7vJqG9NuX9zQ7fE8rY6uT5wR4eP3oI2uY1tT0eO
 ```
 *Note that the `password` column contains the 60-character bcrypt hash rather than plain text.*
 
@@ -561,8 +561,8 @@ Through **Lab 4**, I achieved the following learning outcomes:
 
 ## 👤 Author & Academic Attribution
 
-**Vemuri Jaswanth**  
-**Registration Number:** `252U1R1256`  
+**SURE ABHIRAM**
+**Registration Number:** `252U1R1234`
 **Section:** `CSE-CORE-2E`  
 **Department of Computer Science & Engineering**  
 **Aurora Deemed-to-be-University**

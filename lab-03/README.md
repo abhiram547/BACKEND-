@@ -8,8 +8,8 @@
 
 | Field | Details |
 |---|---|
-| **Student Name** | Vemuri Jaswanth |
-| **Registration Number** | 252U1R1256 |
+| **Student Name** | SURE ABHIRAM |
+| **Registration Number** | 252U1R1234 |
 | **Section** | CSE-CORE-2E |
 | **Course** | Backend Development Fundamentals |
 | **Faculty** | Mr Yugandhar Gurjalwar |
@@ -546,8 +546,8 @@ Through **Lab 3**, I achieved the following learning outcomes:
 
 ## 👤 Author & Academic Attribution
 
-**Vemuri Jaswanth**<br>
-**Registration Number:** `252U1R1256`<br>
+**SURE ABHIRAM**<br>
+**Registration Number:** `252U1R1234`<br>
 **Section:** `CSE-CORE-2E`  
 **Department of Computer Science & Engineering**  
 **Aurora Deemed-to-be-University**
