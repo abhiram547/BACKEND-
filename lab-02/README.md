@@ -1,6 +1,6 @@
 # Lab 2: SQLite Database and CRUD Routes
 
-> **Local server** [http://localhost:3000](http://localhost:3000) · **Lab 04 on Render** [https://backend-lab-h2hp.onrender.com/](https://backend-lab-h2hp.onrender.com/)
+> **Local server** [http://localhost:3000](http://localhost:3000) · **Lab 04 on Render** [https://backend-qgy8.onrender.com/](https://backend-qgy8.onrender.com/)
 
 ---
 
