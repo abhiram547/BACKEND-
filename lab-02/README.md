@@ -14,7 +14,7 @@
 | **Course** | Backend Development Fundamentals |
 | **Faculty** | Mr Yugandhar Gurjalwar |
 | **Institution** | Aurora Deemed-to-be-University |
-| **GitHub Repository** | [https://github.com/JaswanthCodeHub/backend_lab](https://github.com/JaswanthCodeHub/backend_lab) |
+| **GitHub Repository**  | [https://github.com/abhiram547/BACKEND-](https://github.com/abhiram547/BACKEND-) |
 | **Repository Path** | `lab-02/` in course GitHub repository |
 
 ---
